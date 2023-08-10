@@ -12,20 +12,27 @@ void airtel_money() {
     // Tableau des membres du groupe
     char * nom_groupe[] = {
                             "MAKANDA SWEDI MICHEL", 
-                            "KASWING KANVANT JUDITH", 
-                            "MASENGO BIKONDAMA AMOS", 
-                            "MULEKA BUKASA FRANCIS", 
-                            "BALANGE MUYENGA DORCAS",
-                            "KANKU TSHIBOLA MAGLOIRE",
-                            "NGONGO MUHIYA PIERRE",
+                            "BALANGE MUYENGA DORCAS", 
+                            "LUKWESA KASHOBA JOSUE", 
+                            "SADIKI YENGAYENGA ALBERT", 
+                            "MASENGO BIKONDAMA AMOS",
+                            "NGOSA KABANGE AMOS",
                             "NTAMBWE LIYA ELIE",
                             "MUKAJI MWENYI FLORENCE",
-                            "MALALA KALANDA DELICIA",
-                            "MEKI MIKITI APOLYNE",
+                            "KASWING KANVAND JUDITH",
+                            "LUPITY NGOY KISULA ELIE",
+                            "KAILI MUTITI JULES",
+                            "NGONGO MUHIYA PIERRE",
+                            "KANKU TSHIBOLA MAGLOIRE",
+                            "KASONGO MIHALI FIDEL",
+                            "DHATA OBOLO DONNA",
                             "ZAWADI KASOLE SYLVIE",
-                            "NDEMBA MWAMBA ANIFA",
-                            "LUKWESHA KASHOBA JOSUÉ",
-                            "KAHILU MUTITI JULES",
+                            "MALALA KALANDA DELICIA",
+                            "NDEMBA MWAMBA ANNIFA",
+                            "KALOMBO KOMBE LAETITIA",
+                            "KANDA MAKANDA GUELORD",
+                            "MULEKA BUKASA FRANCIS",
+                            "APOLINE MIKIT"
                         };
     int taille = sizeof(nom_groupe) / sizeof(nom_groupe[0]);
 
